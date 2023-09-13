@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm
     Ganesh</a></h1>
-    <h3 align="center">  learning DevOps ;</h3>
+    <h3 align="center"> I am learning DevOps ;</h3>
     <br/>
     <br/>
     
